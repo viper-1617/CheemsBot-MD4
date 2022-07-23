@@ -55,21 +55,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['916238054812'] //ur owner number
-global.ownername = "𝙑𝙄𝙋𝞢𝙍 𝙎𝞢𝙍🎈🕊" //ur owner name
+global.ownername = "➦🪀☻᳡₊₉₁ͮ₆ͥ₂ᷮ₃ͤ₈ͬ₀₅ᷤ₄ͤ₈ͬ₁₂" //ur owner name
 global.ytname = "YT: 𝙑𝙄𝙋𝞢𝙍 𝙎𝞢𝙍🎈" //ur yt chanel name
 global.socialm = "INSTA: _adaxxh" //ur github or insta name
-global.location = "India, Kerala, Kozhikode" //ur location
+global.location = "India, Kerala, God's own country 🕊" //ur location
 
 //bot bomdy 
 global.owner = ['916238054812']
 global.ownertag = '916238054812' //ur tag number
-global.botname = '𝙑𝙄𝙋𝞢𝙍 𝙎𝞢𝙍🎈𝙈𝘿' //ur bot name
+global.botname = '🕊️⃞⋆⋆ ♰⃟〄ᴠɪᴘᴇʀ ʙᴏᴛ🇱🇷⃞➻➤' //ur bot name
 global.linkz = "Famous Avunne Istam alla Mwonu" //your theme url which will be displayed on whatsapp
-global.websitex = "𝙑𝙄𝙋𝞢𝙍 𝙎𝞢𝙍🎈𝙈𝘿" //ur website to be displayed
+global.websitex = "WEBSITE OO ATH ENTH 😦SANAM???" //ur website to be displayed
 global.botscript = 'Nokki Irunno ippam kittum' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "🕊" //ur menu react emoji
 global.themeemoji = "🕊" //ur theme emoji
-global.packname = "𝙑𝙄𝙋𝞢𝙍 𝙎𝞢𝙍🎈𝙈𝘿🕊" //ur sticker watermark packname
+global.packname = "🕊️⃞⋆⋆ ♰⃟〄ᴠɪᴘᴇʀ ʙᴏᴛ🇱🇷⃞➻➤" //ur sticker watermark packname
 global.author = "➦🪀☻᳡₊₉₁ͮ₆ͥ₂ᷮ₃ͤ₈ͬ₀₅ᷤ₄ͤ₈ͬ₁₂" //ur sticker watermark author
 
 //Bot theme media
